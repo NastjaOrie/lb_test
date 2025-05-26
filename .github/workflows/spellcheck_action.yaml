@@ -3,7 +3,7 @@ on: pull_request
 
 jobs:
   build:
-    name: Spellcheck
+    name: ruling rule
     runs-on: ubuntu-latest
     steps:
     # The checkout step
